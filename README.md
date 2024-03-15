@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=het0207&show_icons=true&locale=en&layout=compact" alt="neer-patel-11"&theme=radical />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=het0207&show_icons=true&locale=en&layout=compact" alt="het0207"&theme=radical />
   <img  src="https://github-readme-stats.vercel.app/api?username=het0207&show_icons=true&hide_border=true&theme=radical" />
 
 </p>
